@@ -1,0 +1,27 @@
+input-dataset-A
+===============
+A,1,John
+A,2,Alice
+A,3,Bob
+A,4,Charlie
+
+input-dataset-B
+===============
+B,2,HR
+B,4,Engineering
+
+===========================
+finaldataset(combine a and b)
+============================
+A,1,John
+A,2,Alice
+A,3,Bob
+A,4,Charlie
+B,2,HR
+B,4,Engineering
+=============================
+output
+======
+2       Alice
+4       Charlie
+
