@@ -1,0 +1,26 @@
+input-dataset
+===================================================
+A,1,John
+A,2,Alice
+A,3,Bob
+A,4,Charlie
+A,5,David
+A,6,Eve
+A,7,Frank
+A,8,Grace
+A,9,Hannah
+A,10,Isaac
+B,2,HR
+B,4,Engineering
+B,6,Marketing
+B,8,Finance
+B,10,Sales
+
+
+output
+------------
+10      Isaac
+2       Alice
+4       Charlie
+6       Eve
+8       Grace
